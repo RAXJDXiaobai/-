@@ -1,0 +1,341 @@
+[
+  {
+    "word": "resolution",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "re-", "function": "再次、回、加强"},
+      {"part": "solu", "function": "松开、解开、释放"},
+      {"part": "-tion", "function": "名词后缀，表示动作的过程或结果"}
+    ],
+    "note": "",
+    "original_action": "手指捏住一个死结的绳头，反复松动缠绕处，把绳股逐一释放，直到绳结消失，绳子恢复为平展的直线。",
+    "root_image": "指尖捏着死结的绳头，反复松动缠绕处，绳结被完全解开，绳子平摊在桌面上。",
+    "initial_meaning": "解开、分解、溶解的行为或过程；把复杂缠绕的结构拆解为松解状态。",
+    "abstract_meanings": [
+      {"meaning": "问题的解决、解答", "from": "把缠绕的结一段段松开，难题的线头被抽出来。"},
+      {"meaning": "决心、决意", "from": "在内心把分散的意愿收紧成一个不可拆解的坚定决定。"},
+      {"meaning": "分辨率、清晰度", "from": "把图像或信号拆解成无数可辨识的微小单元，细节被看清。"}
+    ],
+    "examples": [
+      {"en": "The resolution of the conflict took two years.", "zh": "冲突的解决花了两年时间。", "tag": "抽象义①，问题的解决"},
+      {"en": "She made a New Year's resolution.", "zh": "她立了一个新年决心。", "tag": "抽象义②，决心"},
+      {"en": "This screen has high resolution.", "zh": "这块屏幕有很高的分辨率。", "tag": "抽象义③，清晰度"}
+    ],
+    "short_image": "手指解开绳结，绳子平摊在桌上。",
+    "anchor": "解开死结，绳子平摊",
+    "phonetic_uk": "/ˌrezəˈluːʃn/",
+    "phonetic_us": "/ˌrezəˈluːʃn/",
+    "original_bold": "把绳股逐一释放",
+    "root_bold": "绳结被完全解开"
+  },
+  {
+    "word": "intelligence",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "inter-", "function": "在……之间"},
+      {"part": "lig", "function": "选择、收集、阅读"},
+      {"part": "-ence", "function": "名词后缀，表示能力、状态或性质"}
+    ],
+    "note": "",
+    "original_action": "视线在不同痕迹之间来回移动：左边脚印、右边灰烬、桌上杯子；把分散的信息点逐一收集，并在它们之间建立连接。",
+    "root_image": "侦探站在案发现场，视线在脚印、破窗、玻璃杯之间来回扫视，把独立线索串成一条逻辑链。",
+    "initial_meaning": "理解力、认知能力；在多个信息点之间识别关系、提取模式的能力。",
+    "abstract_meanings": [
+      {"meaning": "智力、智慧：一个人综合的认知水平和学习能力", "from": "在散落的信息点之间快速连线的能力。"},
+      {"meaning": "情报：经过筛选和分析后得到的具有实用价值的信息集合", "from": "把现场痕迹收集、比对之后留下的那条链。"}
+    ],
+    "examples": [
+      {"en": "She has a high level of intelligence.", "zh": "她有很高的智力水平。", "tag": "抽象义①，智力"},
+      {"en": "They gathered military intelligence.", "zh": "他们收集了军事情报。", "tag": "抽象义②，情报"}
+    ],
+    "short_image": "侦探的视线在脚印、破窗、杯子之间来回移动，串成链条。",
+    "anchor": "视线在痕迹之间来回，串成一条链"
+  },
+  {
+    "word": "opportunity",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "op-", "function": "朝向、向（拉丁语 ob- 的变体）"},
+      {"part": "port", "function": "港口"},
+      {"part": "-unity", "function": "名词后缀，表示状态或性质"}
+    ],
+    "note": "",
+    "original_action": "船在海上偏航，风向突然转变，一阵顺风从船尾吹来，帆被鼓满，船头自动转向港口入口；风推着船走向安全之地。",
+    "root_image": "站在船头，帆突然被风鼓满，船头转向港口入口。",
+    "initial_meaning": "有利的时机、顺风；风正好把船吹向港口。",
+    "abstract_meanings": [
+      {"meaning": "机会、良机：有利于做某事的时机或条件", "from": "风正好吹向港口的那一刻，船不用划也能进港。"}
+    ],
+    "examples": [
+      {"en": "This is a good opportunity to learn.", "zh": "这是学习的好机会。", "tag": "抽象义，良机"},
+      {"en": "He missed the opportunity.", "zh": "他错过了机会。", "tag": "抽象义，机会"}
+    ],
+    "short_image": "帆被风鼓满，船转向港口。",
+    "anchor": "顺风鼓满帆，船头转向港口"
+  },
+  {
+    "word": "so that",
+    "type": "phrase",
+    "phrase_type": "功能结构",
+    "decomposable": true,
+    "components": [
+      {"part": "so", "function": "如此、以便"},
+      {"part": "that", "function": "引导从句的连接词"}
+    ],
+    "note": "",
+    "original_action": "把线头捻细，对准针眼，一点一点送进去，直到线穿过针眼；前面的动作指向后面那个目的。",
+    "root_image": "把线头捻细，对准针眼，送进去，目的是让线穿过针眼。",
+    "initial_meaning": "以便、为了；引导目的状语从句，表示前一个动作是为了后一个结果。",
+    "abstract_meanings": [
+      {"meaning": "结果是、以至于；引导结果状语从句", "from": "线穿过针眼之后，后面那句话自然成为结果。"}
+    ],
+    "examples": [
+      {"en": "I got up early so that I could catch the train.", "zh": "我早起是为了赶上火车。", "tag": "初意，目的"},
+      {"en": "He spoke loudly so that everyone could hear.", "zh": "他大声说话，以便每个人都能听见。", "tag": "初意，目的"}
+    ],
+    "short_image": "捻细线头，对准针眼，送进去，让线穿过。",
+    "anchor": "线头对准针眼，送进去"
+  },
+  {
+    "word": "in no way",
+    "type": "phrase",
+    "phrase_type": "固定搭配",
+    "decomposable": true,
+    "components": [
+      {"part": "in", "function": "在……之中、以……方式"},
+      {"part": "no", "function": "没有、零"},
+      {"part": "way", "function": "道路、方式、途径"}
+    ],
+    "note": "",
+    "original_action": "站在一个路口，面前分出很多条路；往前走，每条路的入口都被横木封死，横木上挂着“禁止通行”；一条一条看过去，没有任何一条是敞开的。",
+    "root_image": "站在路口，每条路的入口都被横木封死，没有一条能走。",
+    "initial_meaning": "没有任何方式、没有任何途径；在所有可能的方式中，一条都不成立。",
+    "abstract_meanings": [
+      {"meaning": "绝不、无论如何都不；用于强调否定", "from": "所有路口都被封死，连一条能走的路都不存在。"}
+    ],
+    "examples": [
+      {"en": "In no way can we accept this result.", "zh": "我们绝不能接受这个结果。", "tag": "抽象义，强调否定"},
+      {"en": "This is in no way your fault.", "zh": "这绝不是你的错。", "tag": "抽象义，强调否定"}
+    ],
+    "short_image": "路口每条路都被横木封死，没有一条能走。",
+    "anchor": "所有路口都被横木封死"
+  },
+  {
+    "word": "clear the air",
+    "type": "phrase",
+    "phrase_type": "固定搭配",
+    "decomposable": true,
+    "components": [
+      {"part": "clear", "function": "使干净、清除、变晴朗"},
+      {"part": "the air", "function": "空气、气氛"}
+    ],
+    "note": "",
+    "original_action": "一间屋子关了几天窗，空气闷、浑浊；走过去把窗推开，外面的风灌进来，屋里的浊气被换出去；站在窗边吸一口气，胸口松开。",
+    "root_image": "推开窗，浊气出去，新风进来，站在窗边吸一口气。",
+    "initial_meaning": "使空气清新；清除浑浊，换进新鲜空气。",
+    "abstract_meanings": [
+      {"meaning": "消除误会、缓和紧张气氛", "from": "浊气被换出去之后，屋里的人能重新顺畅呼吸。"}
+    ],
+    "examples": [
+      {"en": "We need to clear the air after that argument.", "zh": "那次争吵之后，我们需要把话说开、消除隔阂。", "tag": "抽象义，消除误会"},
+      {"en": "He opened the windows to clear the air.", "zh": "他打开窗户换换空气。", "tag": "初意，换新鲜空气"}
+    ],
+    "short_image": "推开窗，浊气出去，新风进来。",
+    "anchor": "推开窗，让浊气出去"
+  },
+  {
+    "word": "見る",
+    "lang": "ja",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "見", "function": "看见、目光落在对象上"},
+      {"part": "る", "function": "动词词尾，表示基本形"}
+    ],
+    "note": "",
+    "original_action": "站在窗前，眼皮抬起，光从外面进来，视线落到一只鸟身上，鸟的轮廓在眼里成形；眼睛跟着它移动，直到它飞出视野。",
+    "root_image": "站在窗前，眼睛跟着一只鸟，从窗台移到树梢。",
+    "initial_meaning": "看、看见；目光落在对象上并接收它的形状。",
+    "abstract_meanings": [
+      {"meaning": "观看、欣赏（电影、比赛等）", "from": "眼睛跟着对象移动，把整个过程收进眼里。"},
+      {"meaning": "判断、评估（人的能力、情况）", "from": "目光停在对象上，反复看它的表现，再下结论。"},
+      {"meaning": "照料、看护", "from": "视线一直落在对方身上，不走开。"}
+    ],
+    "examples": [
+      {"sentence": "映画を見る。", "zh": "看电影。", "tag": "抽象义①，观看"},
+      {"sentence": "人の意見をよく見る。", "zh": "仔细审视别人的意见。", "tag": "抽象义②，判断"},
+      {"sentence": "子どもを見る。", "zh": "照看孩子。", "tag": "抽象义③，看护"}
+    ],
+    "short_image": "眼睛跟着一只鸟，从窗台移到树梢。",
+    "anchor": "眼睛跟着鸟移动"
+  },
+  {
+    "word": "идти",
+    "lang": "ru",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "ид-", "function": "走、移动"},
+      {"part": "-ти", "function": "动词不定式词尾"}
+    ],
+    "note": "",
+    "original_action": "两只脚交替落地，身体重心从一只脚移到另一只脚，整个人一步一步向前，地面在脚下往后退。",
+    "root_image": "雪地里，两只脚交替踩下去，身体一步一步向前。",
+    "initial_meaning": "走、步行；用双脚一步一步向前移动。",
+    "abstract_meanings": [
+      {"meaning": "（时间、事物）进行、进展", "from": "脚步不停向前，时间也跟着一格一格往前走。"},
+      {"meaning": "（雨、雪）下", "from": "密集的雨点像脚步一样不断落下来。"}
+    ],
+    "examples": [
+      {"sentence": "Я иду домой.", "zh": "我走回家。", "tag": "初意，步行"},
+      {"sentence": "Время идёт быстро.", "zh": "时间过得很快。", "tag": "抽象义①，时间进行"},
+      {"sentence": "Идёт дождь.", "zh": "正在下雨。", "tag": "抽象义②，雨雪落下"}
+    ],
+    "short_image": "两只脚交替踩下去，身体向前。",
+    "anchor": "双脚交替向前"
+  },
+  {
+    "word": "llevar",
+    "lang": "es",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "llev-", "function": "带、运、承载"},
+      {"part": "-ar", "function": "动词不定式词尾"}
+    ],
+    "note": "",
+    "original_action": "双臂把一件重物抱在胸前，身体微微后仰抵住重量，迈步时重物跟着身体一起移动，始终不脱手。",
+    "root_image": "抱着一个箱子走在路上，箱子的重量压在手臂上。",
+    "initial_meaning": "携带、搬动；把东西带在身上从一处移到另一处。",
+    "abstract_meanings": [
+      {"meaning": "穿着、佩戴", "from": "衣物或饰品贴在身上，跟着人一起走。"},
+      {"meaning": "忍受、承受", "from": "重物的重量一直压在手臂上，不能放下。"},
+      {"meaning": "度过（时间）", "from": "日子像行李一样被一段段带着走。"}
+    ],
+    "examples": [
+      {"sentence": "Llevo una mochila.", "zh": "我背着一个背包。", "tag": "初意，携带"},
+      {"sentence": "Lleva una camisa azul.", "zh": "他穿着一件蓝衬衫。", "tag": "抽象义①，穿着"},
+      {"sentence": "No puedo llevar este dolor.", "zh": "我承受不了这种痛苦。", "tag": "抽象义②，承受"}
+    ],
+    "short_image": "抱着箱子走路，重量压在手臂上。",
+    "anchor": "抱着箱子一起走"
+  },
+  {
+    "word": "tenir",
+    "lang": "fr",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "ten-", "function": "握住、保持"},
+      {"part": "-ir", "function": "动词不定式词尾"}
+    ],
+    "note": "",
+    "original_action": "手指收拢，把一根绳子紧紧握在掌心，手臂稳住，不让它从手里滑走；力气一直保持住。",
+    "root_image": "一只手握住绳子，手指收紧，绳子绷直。",
+    "initial_meaning": "握住、抓住；用手把东西固定住。",
+    "abstract_meanings": [
+      {"meaning": "保持、维持", "from": "手一直握着不松开，状态被固定住。"},
+      {"meaning": "坚持、守住", "from": "手臂一直用力，哪怕发抖也不松手。"},
+      {"meaning": "经营、打理", "from": "像握住一样把一家店、一件事稳稳管在手里。"}
+    ],
+    "examples": [
+      {"sentence": "Je tiens la corde.", "zh": "我抓住绳子。", "tag": "初意，握住"},
+      {"sentence": "Il tient bon.", "zh": "他坚持住了。", "tag": "抽象义②，坚持"},
+      {"sentence": "Elle tient un petit magasin.", "zh": "她经营一家小店。", "tag": "抽象义③，经营"}
+    ],
+    "short_image": "手指收紧，握住绳子。",
+    "anchor": "手指收紧握住绳子"
+  },
+  {
+    "word": "tragen",
+    "lang": "de",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": true,
+    "components": [
+      {"part": "trag-", "function": "承载、负担"},
+      {"part": "-en", "function": "动词不定式词尾"}
+    ],
+    "note": "",
+    "original_action": "把一件重物放到背上或手臂上，膝盖微屈，身体撑住重量，一步一步把它带到远处，重量始终压在身上。",
+    "root_image": "背着箱子走路，箱子的重量压在背上。",
+    "initial_meaning": "搬运、承载；用身体承担重量并移动。",
+    "abstract_meanings": [
+      {"meaning": "穿着、戴着", "from": "衣物贴在身上，跟着身体一起走。"},
+      {"meaning": "承担（责任、后果）", "from": "重量压在背上，不能中途放下。"},
+      {"meaning": "支撑、承受", "from": "膝盖和背一直撑着，不让重量把人压垮。"}
+    ],
+    "examples": [
+      {"sentence": "Er trägt einen Koffer.", "zh": "他提着一个箱子。", "tag": "初意，搬运"},
+      {"sentence": "Sie trägt ein rotes Kleid.", "zh": "她穿着一条红裙子。", "tag": "抽象义①，穿着"},
+      {"sentence": "Er trägt die Verantwortung.", "zh": "他承担着责任。", "tag": "抽象义②，承担"}
+    ],
+    "short_image": "背着箱子走路，重量压在背上。",
+    "anchor": "背着箱子往前走"
+  },
+  {
+    "word": "犹",
+    "lang": "wy",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": false,
+    "components": [],
+    "note": "整体块；古文字构件见演化史。",
+    "original_action": "一只猴类动物在树枝间攀援，前肢抓住新枝，身体还悬在旧枝上方；新旧两枝在视线里叠成相似姿态，身体没有完全离开旧枝。",
+    "root_image": "猴子抓住新枝，身体还挂在旧枝上，两枝在眼前叠成相似形状。",
+    "initial_meaning": "字形本义是兽名；常用初意是如同、好像。",
+    "abstract_meanings": [
+      {"meaning": "如同、好像", "from": "两件事叠在一起看，边缘相合。"},
+      {"meaning": "还、仍然", "from": "身体还挂在旧枝上，没有离开那条线。"},
+      {"meaning": "尚且", "from": "用更明显的事例逼出结论，连词性。"}
+    ],
+    "examples": [
+      {"sentence": "过犹不及。", "zh": "过头和不够一样，都偏离中道。", "tag": "如同"},
+      {"sentence": "士之耽兮，犹可说也。", "zh": "男子沉溺，还说得上解脱。", "tag": "还、仍然"},
+      {"sentence": "古之圣人，其出人也远矣，犹且从师而问焉。", "zh": "古代的圣人远超常人，尚且跟从老师请教。", "tag": "尚且"}
+    ],
+    "short_image": "猴子抓新枝，身体还挂在旧枝上。",
+    "anchor": "还挂在旧枝上",
+    "reading": "yóu",
+    "evolution_history": "早期字形从犬、酋声，本义是兽名（猴类一类）。先秦文献已大量假借：一路长成“如同”（两物相叠），一路长成“还、仍然”（仍挂线上）；由“还”进入让步句，长成“尚且”。汉以后文言中固定为书面副词或连词，口语由“还、仍、像”接管；现代保留在“犹如、记忆犹新、过犹不及、虽死犹生”等固定结构里。"
+  },
+  {
+    "word": "将",
+    "lang": "wy",
+    "type": "word",
+    "phrase_type": "",
+    "decomposable": false,
+    "components": [],
+    "note": "整体块；古文字构件见演化史。",
+    "original_action": "双手从下方托住一块肉或一件器物，物体在手中，手朝前上方送；物体被带着走，朝向接收者或前方。",
+    "root_image": "双手托住器物，从下往上扶着，准备奉上或带走。",
+    "initial_meaning": "持、拿、扶。",
+    "abstract_meanings": [
+      {"meaning": "率领、带领；将领", "from": "手带着队伍走。"},
+      {"meaning": "将要、快要", "from": "动作已经拿在手里，朝发生点走。"},
+      {"meaning": "请、愿", "from": "把请求托到对方面前。"},
+      {"meaning": "又……又……", "from": "两个动作同时挂在手里。"},
+      {"meaning": "把（介词）", "from": "中古以后由托持虚化。"}
+    ],
+    "examples": [
+      {"sentence": "公将战。", "zh": "鲁庄公将要迎战。", "tag": "将要"},
+      {"sentence": "将兵数万。", "zh": "率领数万士兵。", "tag": "率领"},
+      {"sentence": "将仲子兮，无逾我里。", "zh": "请你呀仲子，不要翻过我的里墙。", "tag": "请"},
+      {"sentence": "将信将疑。", "zh": "又相信又怀疑。", "tag": "又……又……"}
+    ],
+    "short_image": "双手托住器物，朝前送。",
+    "anchor": "双手托着东西朝前送",
+    "reading": "jiāng",
+    "evolution_history": "古文字多认为像双手托持肉或器物，本义是持、扶、拿。由“持物带着走”长成“率领”，再名词化为“将领”；由“持在手里、朝前送”虚化成副词“将要”；由“托物奉上”长成敬辞“请”；中古以后继续虚化出介词“把”。现代保留在“即将、将兵、将领、将书拿来、将信将疑”等书面或固定结构里。"
+  }
+]

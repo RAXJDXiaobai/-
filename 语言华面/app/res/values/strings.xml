@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">语言华面</string>
+    <string name="tagline">把词语拆回最初的动作</string>
+    <string name="hint">输入单词或短语</string>
+</resources>
